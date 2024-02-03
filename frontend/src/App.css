@@ -1,0 +1,23 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  text-align: center;
+  font-size: 1.5em;
+  margin: 0 auto;
+}
+
+input {
+  font-size: 1.5em;
+  text-align: left;
+  padding: 5px;
+  margin-bottom: 30px;
+}
+
+.notice {
+  color: #ff0000;
+}
